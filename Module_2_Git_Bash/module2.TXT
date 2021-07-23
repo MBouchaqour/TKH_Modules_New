@@ -1,0 +1,20 @@
+GitHub Link: https://github.com/MBouchaqour
+
+Q1: What is Git and how is it different than Github?
+
+According to the article "Module 2 GIT AND BASH FUNCAMENTALS", Git is a version control system that lets you manage and keep track of your source code history, 
+in other words, Git is capable to keep tracking changes we make in any set of files that we create. 
+Git is very good example of a software that is used for coordinating work among programmers. 
+
+In contrast, Github, is a web-based repository hosting services, which means that Git plays like a server that can hold our application and data. 
+
+Q2: Why use the terminal? 
+
+Even though interacting with computer these days have been easy, It is still very important for a computer learners to understand how she/he is actually interacting with the computer. 
+Terminal is a command lines or consoles that allow us to do and automate tasks on computer without using any graphical user interface. 
+
+Q3: Explain 3 benefits of version control in your own words?
+
+A version control system is a very important tool. For instance, assuming you are a developer and you have been working on a huge program, using  version control will allow other developers, more likely your colleagues, to be involved in your coding, therefore you are all be able to finish fast and gain more time. Other benefit of this tool is allowing you to be efficiency and agility as the team scales to increase in numbers of developers. 
+
+
