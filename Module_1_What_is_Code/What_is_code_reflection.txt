@@ -1,0 +1,37 @@
+Mustapha Bouchaqour
+Data Science 2021
+
+WHAT_IS_CODE_REFLECTION
+
+Q1: What is a computer really doing whenever you type a letter on a keyboard? 
+Literally, anytime you press a letter on a keyboard, the keyboard is scanning to see what keys are pressed then send a scancode to CPU. CPU, then received the scancode and take the process even further.  Computer now has to pull the image of the letter out of its memory, in other words, the electronic map that the computer creates for the letter. The electronic map is formed by lines and circles. The letter then is reduced to a very lower binary code or data that CPU will understand. Final, process is to work back word. which means, CPU now is going to transfer the coding data that was produced about the letter to the stage where the letter could be visualized at the screen. 
+
+Q2: How do computers use input and output to create experience?
+The intermediary  machine between input and output is called devices. So, computer basically, sits devices in order to take input data and produce an output of that data. An example of an input could be a keyboard that we use to enter information we aim to be treated. CPU, then, is responsible to treating that information and sent it back to an output such as screen. 
+
+Q3: Why software products are essentially  infinitely reproducible nothings ? 
+There is nothing could come with producing software since that other people could sell similar software cheaper than you expect. However, sometimes you could find same software product that,  once upon on time, you paid for it, is free everywhere.  
+
+Q4: How code becomes software? 
+As we know every software start as code. That code is written by programmers or developers in order to do some tasks. However, the coders are writing their programs in machine language. Once the code is ready, the compiler checks it for you and transform it into lower-level instructions. 
+
+Q5: What is algorithm? 
+I would like to say that an algorithm is a procedure for solving a problem in a natural language, or by writing a computer program that implements the procedures. 
+
+Q6: DRY principles? 
+The DRY principle is when you are naming things once. For instance, creating a function once, name things once such as variables and classes, and let the computer repeat itself. 
+
+Q7: Object-Oriented programming? 
+Object-oriented programming is a programming model that use the concept of "objects",  which can be treated as data or code. Date in the form of fields, and code, in the form of procedures or methods.
+
+Q8: Data and code?
+Data could be the input that we need to use in order to get a desired result. We are writing code as a set of instructions that specify what to do with data. So, data is the input for the code, and also the data could be the result we want after we run that code over the input data. 
+
+Q9: What is a framework? 
+A framework is a platform for developing software application… An example of a framework is Django, that is used for coding in python. 
+
+Q10: What is a debugging? 
+Debugging is the process of finding and resolving bugs through our code. Debugging helping us to understand in more details why some errors appear in our code, so we can fix them and run our code nicely.  
+
+Q11: Why do you want to learn how to code? 
+We are living in a digital age, where everything around us is generated with smart algorithms. I believe it is important to me to improve my coding skills and get more familiar with programming languages. Moreover, learning programming will help me develop a range of soft skills, including critical thinking, teamwork, logical reasoning and more. Financially, I think learning how to code will improve my application as job seeker. 
