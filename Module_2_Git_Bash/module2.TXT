@@ -1,4 +1,4 @@
-GitHub Link: https://github.com/MBouchaqour
+GitHub https://github.com/MBouchaqour
 
 Q1: What is Git and how is it different than Github?
 
