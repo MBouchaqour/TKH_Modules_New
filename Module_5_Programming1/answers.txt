@@ -1,0 +1,52 @@
+Explain in your own words what is Python?
+
+Python is a programming language or practically saying , 
+Python is a high-level programming language with dynamic semantics. 
+It is high-level because python is interpreted language, which is not subject to processor. 
+Some of Python experts say that Python is a high-level because of its distance from machine binary code, in other words, 
+Python does not need a compiler. Python uses dynamic semantics, meaning that its variables are dynamic object. 
+An example of that with using a variable Y=1, python will understand that Y is “an integer”, 
+but once you assign to Y a text such as Y =”Hello”, Python treat Y as a string. Additionally, 
+you can say that Python is an object-oriented language. 
+Python was designed with OOP approach and its offers a clear program structure and a clean code.  
+You may keep in mind that everything in Python is an object. Roughly speaking, Python is easier to use and easier to read. 
+If we want to summary our point about Python, we are safe to say that Python is an interpreted ( because it goes through an interpreter, 
+which turns code you write into the language understood by your computer’s processor”, 
+object-oriented ( using the principle of the classes and subclasses, so you can created classes, 
+and use them when it is required), high-level programming language with dynamic semantics. 
+
+
+Explain Data Python Data Types?
+
+Any language programming needs to have some data type. 
+Data type gives the kind of value that help use understood with operation can be performed on that particular data.
+ According to my first answer, everything in Python is treated as object, so data type, 
+mainly speaking, data type are actually classes and variables are instance or object of these classes. 
+Python has a lot of data type that are already built-in by default. Here are some examples:
+
+Text Type  str
+Numeric Types  int, float, complex
+Sequence Type list, tuple, range
+Mapping Type dict ( dictionary) 
+Set Types  set, frozenset
+Boolean Type  bool
+Binary Types  bytes, bytearray, memoryview
+You can also create your own data type with Python, by creating classes. 
+
+Explain in your own words What is a function?
+
+Mathematically speaking a function is a special relationship between an input and output elements, 
+in other words, each element in the domain of the function will have one and only one element in the range that can be mapped to it. 
+However, in programming language  such as Python, function contains a black of instruction that was coded by a developer to handle certain input or case(s). 
+After you create a function, you can call it from everywhere. Depends on what you want to do with your function, you can make it either a void function that is return no value, 
+or a returning function that is return for some output or value. Using function within your code will always simplify your task or mission. 
+The best thing with functions is that you are using them whenever you want them, and they are aimed to tackle specific tasks. 
+
+Explain the Python print statement?
+
+As you started coding, you need to check what are you doing, or if the result you are aiming for is exactly as you expect. 
+The print statement then is the one that you need to display your message or output. 
+Here is an example of using the print statement, assuming you have two variables x and y and you need to add them up and see what the result is, 
+you can use print statement this way print(“The sum of x = “, x, “ and  “, y “ is: ”, x+y).  Moreover, the output message can be a string, or any other object, 
+however, the object will be converted into a string before actually written to the screen
+
